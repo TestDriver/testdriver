@@ -1,0 +1,26 @@
+{
+  "name": "testdriver",
+  "version": "0.0.0",
+  "description": "testdriver ==========",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/testdriver/testdriver.git"
+  },
+  "keywords": [
+    "testdriver"
+  ],
+  "author": "Tom Merrihew <tom.merrihew@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/testdriver/testdriver/issues"
+  },
+  "homepage": "https://github.com/testdriver/testdriver",
+  "dependencies": {
+    "q": "^1.0.1",
+    "glob": "^3.2.9"
+  }
+}
