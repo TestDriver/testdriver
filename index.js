@@ -1,1 +1,1 @@
-module.exports = require("./lib/testdrive");
+module.exports = require("./lib/testdriver");
