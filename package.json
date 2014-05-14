@@ -3,8 +3,7 @@
   "version": "0.0.1",
   "description": "Node.js automated test runner",
   "main": "index.js",
-  "scripts": {
-  },
+  "scripts": {},
   "bin": {
     "testdriver": "./bin/testdriver"
   },
@@ -24,6 +23,7 @@
   "dependencies": {
     "q": "^1.0.1",
     "glob": "^3.2.9",
-    "eventemitter2": "^0.4.13"
+    "eventemitter2": "^0.4.13",
+    "yargs": "^1.2.1"
   }
 }
