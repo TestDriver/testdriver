@@ -1,3 +1,5 @@
-var TestDriver = require("./lib/testdriver");
-var testDriver = new TestDriver();
-module.exports = testDriver;
+var TestDriver = require("./lib/testdriver.js");
+var testdriver = new TestDriver();
+
+module.exports = testdriver;
+module.exports.TestDriver = TestDriver;
