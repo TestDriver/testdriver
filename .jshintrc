@@ -11,6 +11,6 @@
 	"noarg": true,
 	"trailing": true,
 	"smarttabs": true,
-	"es3": false,
-	"white": true
+	"white": true,
+	"maxdepth": 3
 }

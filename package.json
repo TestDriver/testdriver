@@ -21,5 +21,9 @@
   },
   "homepage": "https://github.com/testdriver/testdriver",
   "dependencies": {
+    "callsite": "^1.0.0",
+    "chai": "^1.9.1",
+    "chalk": "^0.4.0",
+    "glob": "^4.0.0"
   }
 }
